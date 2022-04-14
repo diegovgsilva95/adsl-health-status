@@ -1,0 +1,79 @@
+aside.sidepanel {
+    width: 30vw; //Modo retrato: mude para height
+    // transition: width 0.5s ease-in-out;
+    overflow: hidden;
+    .gradient(linear; #555, #000);
+    &.sideoff {
+        width: 1vw;
+        & > * {
+            display: none;
+        }
+        &::before {
+            content: "Informações";
+            font-family: inherit;
+            font-weight: 100;
+            display: inline-block;
+            transform: rotate(90deg);
+            transform-origin: bottom left;
+            font-size: 1vw;
+        }
+    }
+
+    & > header {
+        display: flex;
+        flex-direction: row;
+        align-items: stretch;
+        justify-content: space-between;
+        height: 5vw;
+        .gradient(linear,#000, #333);
+        //header > (nav + (main > div.monitor-time + div.monitor-date) + nav)
+        & > * {
+            //flex-shrink: 0;
+        }
+        & > nav {
+            display: flex;
+            width: 20%;
+            flex-shrink: 0;
+            & > button {
+                .button();
+                border: 0;
+                font-size: 200%;
+                flex-grow: 1;
+                flex-shrink: 0;
+            }
+        }
+        & > main {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;   
+            overflow: hidden; 
+            // .gradient(linear; #)
+            & > * {
+                overflow: hidden; 
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            & > div.monitor-time {
+                font-size: 2vw;
+            }
+            & > div.monitor-date {
+                font-size: .75vw;
+                white-space: nowrap;
+
+            }
+        }
+
+    }
+    & > main {
+        .flextable .titlecol {
+            width: 12vw;
+        }
+        .flextable .cell:not(.titlecol) {
+            flex-basis: 25%;
+        }
+        @import "flextable.less";
+    }
+}

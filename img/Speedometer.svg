@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg3765"
+   viewBox="0 0 256 256"
+   height="256"
+   width="256"
+   version="1.1">
+  <title
+     id="title4654">Speedometer</title>
+  <metadata
+     id="metadata3769">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Speedometer</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3735">
+    <linearGradient
+       id="linearGradient4650">
+      <stop
+         id="stop4646"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop4648"
+         offset="1"
+         style="stop-color:#858585;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4642">
+      <stop
+         id="stop4638"
+         offset="0"
+         style="stop-color:#7e7e7e;stop-opacity:1" />
+      <stop
+         id="stop4640"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="128"
+       x2="144"
+       y1="128"
+       x1="64"
+       id="linearGradient4644"
+       xlink:href="#linearGradient4642" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9999779,-0.00664827,0.00682297,1.0262543,-0.94797155,-11.643344)"
+       r="96.008016"
+       fy="137.42102"
+       fx="129.33134"
+       cy="137.42102"
+       cx="129.33134"
+       id="radialGradient4652"
+       xlink:href="#linearGradient4650" />
+  </defs>
+  <path
+     id="path3741"
+     d="M 6.4003906 128 C 6.4003906 149.34526 12.018777 170.31524 22.691406 188.80078 L 44.861328 176 C 36.116743 160.85394 31.971035 144.31571 31.986328 128 L 6.4003906 128 z "
+     style="fill:#ff0000;fill-opacity:1;stroke:none;paint-order:stroke fill markers" />
+  <path
+     id="path3743"
+     d="M 22.691406 67.199219 C 12.018777 85.684755 6.4003906 106.65474 6.4003906 128 L 31.986328 128 C 32.002104 111.16897 36.447517 94.57605 44.849609 79.992188 L 22.691406 67.199219 z "
+     style="fill:#df2000;fill-opacity:1;stroke:none;paint-order:stroke fill markers" />
+  <path
+     id="path3745"
+     d="M 67.199219 22.691406 C 48.713683 33.364035 33.364035 48.713683 22.691406 67.199219 L 44.849609 79.992188 C 52.9942 65.855282 64.854411 53.605638 80 44.861328 L 67.199219 22.691406 z "
+     style="fill:#bf4000;fill-opacity:1;stroke:none;paint-order:stroke fill markers" />
+  <path
+     id="path3747"
+     d="M 128 6.4003906 C 106.65474 6.4003906 85.684755 12.018777 67.199219 22.691406 L 80 44.861328 C 95.146065 36.116743 111.68429 31.971035 128 31.986328 L 128 6.4003906 z "
+     style="fill:#9f6000;fill-opacity:1;stroke:none;paint-order:stroke fill markers" />
+  <path
+     id="path3749"
+     d="M 128 6.4003906 L 128 31.986328 C 144.83103 32.002104 161.42395 36.447517 176.00781 44.849609 L 188.80078 22.691406 C 170.31524 12.018777 149.34526 6.4003906 128 6.4003906 z "
+     style="fill:#808000;fill-opacity:1;stroke:none;paint-order:stroke fill markers" />
+  <path
+     id="path3751"
+     d="M 188.80078 22.691406 L 176.00781 44.849609 C 190.14472 52.9942 202.39436 64.854411 211.13867 80 L 233.30859 67.199219 C 222.63596 48.713683 207.28632 33.364035 188.80078 22.691406 z "
+     style="fill:#609f00;fill-opacity:1;stroke:none;paint-order:stroke fill markers" />
+  <path
+     id="path3753"
+     d="M 233.30859 67.199219 L 211.13867 80 C 219.71305 94.85125 224 111.42562 224 128 L 249.59961 128 C 249.59961 106.65474 243.98122 85.684755 233.30859 67.199219 z "
+     style="fill:#40bf00;fill-opacity:1;stroke:none;paint-order:stroke fill markers" />
+  <path
+     id="path3755"
+     d="M 224 128 C 224 144.57438 219.71305 161.14875 211.13867 176 L 233.30859 188.80078 C 243.98122 170.31524 249.59961 149.34526 249.59961 128 L 224 128 z "
+     style="fill:#20df00;fill-opacity:1;stroke:none;paint-order:stroke fill markers" />
+  <path
+     d="M 44.861561,176 C 18.351893,130.08391 34.083908,71.371229 80,44.861561 125.91609,18.351893 184.62877,34.083908 211.13844,80 c 17.14875,29.7025 17.14875,66.2975 0,96 z"
+     id="path3757"
+     style="fill:url(#radialGradient4652);fill-opacity:1;stroke:none;paint-order:stroke fill markers" />
+  <path
+     id="path3759"
+     d="M 128 112 C 125.28085 112 122.72279 112.68423 120.48047 113.88086 L 64 128 L 120.48047 142.11914 C 122.72279 143.31577 125.28085 144 128 144 C 136.83656 144 144 136.83656 144 128 C 144 119.16344 136.83656 112 128 112 z "
+     style="fill:url(#linearGradient4644);fill-opacity:1;stroke:none;paint-order:stroke fill markers" />
+</svg>

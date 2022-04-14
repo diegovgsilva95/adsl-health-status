@@ -1,0 +1,209 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="ADSLHealthMonitor.fw-Page%201" viewBox="0 0 512 512" style="background-color:#ffffff00" version="1.1"
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+	olx="0px" oly="0px" olwidth="512px" olheight="512px"
+>
+	<defs>
+		<linearGradient id="gradient1" x1="26.9531%" y1="0.2232%" x2="26.9531%" y2="100%">
+			<stop stop-color="#b20000" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#350000" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient2" x1="48.8281%" y1="0.7813%" x2="48.8281%" y2="100.7813%">
+			<stop stop-color="#00d900" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#004d13" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient3" x1="50%" y1="0%" x2="50%" y2="99.9999%">
+			<stop stop-color="#8c8c8c" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#505050" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient4" x1="92.1053%" y1="2.5%" x2="92.2855%" y2="97.5148%">
+			<stop stop-color="#d3d3d3" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#888888" stop-opacity="1" offset="40%"/>
+			<stop stop-color="#939393" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient5" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#696969" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#3f5253" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient6" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#888888" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#333333" stop-opacity="1" offset="28.8889%"/>
+			<stop stop-color="#444444" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient7" x1="67.5%" y1="2.7027%" x2="67.5%" y2="100%">
+			<stop stop-color="#626262" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#393939" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient8" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#d9c222" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#ffffca" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#e1d788" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#dad35c" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#e7dd96" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient9" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#d9c222" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#ffffca" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#e1d788" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#dad35c" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#e7dd96" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient10" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#d9c222" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#ffffca" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#e1d788" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#dad35c" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#e7dd96" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient11" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#d9c222" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#ffffca" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#e1d788" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#dad35c" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#e7dd96" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient12" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#d9c222" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#ffffca" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#e1d788" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#dad35c" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#e7dd96" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient13" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#d9c222" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#ffffca" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#e1d788" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#dad35c" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#e7dd96" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient14" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#d9c222" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#ffffca" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#e1d788" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#dad35c" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#e7dd96" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient15" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#d9c222" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#ffffca" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#e1d788" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#dad35c" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#e7dd96" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient16" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#666929" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#8c8e1b" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<radialGradient id="gradient17" cx="50%" cy="49.9999%" r="50%">
+			<stop stop-color="#d9d900" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#d9d900" stop-opacity="0" offset="100%"/>
+		</radialGradient>
+		<linearGradient id="gradient18" x1="50%" y1="0%" x2="50%" y2="100%">
+			<stop stop-color="#296929" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#1c8e1c" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<radialGradient id="gradient19" cx="50%" cy="49.9999%" r="50%">
+			<stop stop-color="#00d900" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#00d900" stop-opacity="0" offset="100%"/>
+		</radialGradient>
+		<linearGradient id="gradient20" x1="28.3133%" y1="0.6173%" x2="28.3133%" y2="100%">
+			<stop stop-color="#696969" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#3f5253" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient21" x1="79.4117%" y1="2.7027%" x2="79.4117%" y2="100%">
+			<stop stop-color="#626262" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#393939" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient22" x1="0%" y1="0%" x2="0%" y2="99.3827%">
+			<stop stop-color="#888888" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#333333" stop-opacity="1" offset="28.8889%"/>
+			<stop stop-color="#444444" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient23" x1="41.6664%" y1="0%" x2="41.6664%" y2="100%">
+			<stop stop-color="#817944" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#8c8c79" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#827f5b" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#817f57" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#858268" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient24" x1="58.3332%" y1="0%" x2="58.3332%" y2="100%">
+			<stop stop-color="#d9c222" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#ffffca" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#e1d788" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#dad35c" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#e7dd96" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient25" x1="58.3332%" y1="2.0833%" x2="58.3332%" y2="102.0833%">
+			<stop stop-color="#d9c222" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#ffffca" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#e1d788" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#dad35c" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#e7dd96" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<linearGradient id="gradient26" x1="66.6668%" y1="0%" x2="66.6668%" y2="100%">
+			<stop stop-color="#817944" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#8c8c79" stop-opacity="1" offset="19.4444%"/>
+			<stop stop-color="#827f5b" stop-opacity="1" offset="43.8889%"/>
+			<stop stop-color="#817f57" stop-opacity="1" offset="66.6667%"/>
+			<stop stop-color="#858268" stop-opacity="1" offset="100%"/>
+		</linearGradient>
+		<radialGradient id="gradient27" cx="50%" cy="50%" r="50%">
+			<stop stop-color="#00ff00" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#00ff00" stop-opacity="0" offset="100%"/>
+		</radialGradient>
+		<radialGradient id="gradient28" cx="50%" cy="50%" r="50%">
+			<stop stop-color="#00ff00" stop-opacity="1" offset="0%"/>
+			<stop stop-color="#00ff00" stop-opacity="0" offset="100%"/>
+		</radialGradient>
+	</defs>
+	<g id="Layer%201">
+		<path id="Heart" d="M 406.8767 332.4517 L 477.2428 262.802 C 483.9269 256.3188 487.9373 249.8356 491.9478 243.3524 C 510.6632 217.4196 512 195.3767 512 170.7405 C 512 161.664 510.6632 144.8077 507.9895 135.7312 C 490.611 73.4925 441.1488 32 368.9608 32 C 330.4087 32 295.8226 59.6946 256 103.1347 L 256 104.1332 C 216.1774 60.6931 181.5912 32.9985 143.0392 32.9985 C 70.8512 32.9985 21.389 74.491 4.0105 136.7298 C 1.3368 145.8063 0 162.6626 0 171.7391 C 0 196.3752 1.3368 218.4181 20.0522 244.3509 C 24.0627 250.8341 28.0731 257.3174 34.7572 263.8005 L 104.1144 332.4517 L 207.3455 332.4543 L 213.9679 339.0284 L 230.9749 253.9723 L 246.1001 344.7545 L 254.3584 328.2299 L 267.856 341.7312 L 295.0898 300.9739 L 310.8256 332.4543 L 406.8767 332.4517 ZM 256 479.0015 C 263.7788 473.7467 330.454 408.0801 394.7648 344.4392 L 303.4198 344.4399 L 293.5929 324.7804 L 269.7053 360.5323 L 257.6415 348.4641 L 240.3385 383.0807 L 229.9037 320.4446 L 221.348 363.2351 L 202.4085 344.4399 L 116.2263 344.4392 C 180.847 408.39 248.1805 474.7177 256 480 L 256 479.0015 Z" fill="url(#gradient1)"/>
+		<path id="Cross" d="M 358.6667 310 C 354.2483 310 350.6667 313.5817 350.6667 318 L 350.6667 363.3333 L 305.3333 363.3333 C 300.915 363.3333 297.3333 366.915 297.3333 371.3333 L 297.3333 419.3333 C 297.3333 423.7517 300.915 427.3333 305.3333 427.3333 L 350.6667 427.3333 L 350.6667 472.6667 C 350.6667 477.085 354.2483 480.6667 358.6667 480.6667 L 406.6667 480.6667 C 411.085 480.6667 414.6667 477.085 414.6667 472.6667 L 414.6667 427.3333 L 460 427.3333 C 464.4183 427.3333 468 423.7517 468 419.3333 L 468 371.3333 C 468 366.915 464.4183 363.3333 460 363.3333 L 414.6667 363.3333 L 414.6667 318 C 414.6667 313.5817 411.085 310 406.6667 310 L 358.6667 310 Z" stroke="#008c00" stroke-width="1" fill="url(#gradient2)"/>
+		<g id="ADSL_Modem">
+			<rect id="Modem_Chassis" x="86" y="117.3334" width="341.3334" height="128.0001" fill="url(#gradient3)" rx="15.36" ry="15.36"/>
+			<g id="RJ45">
+				<path id="RJ45_Front_metalic" d="M 96 222 C 96 229.3639 101.9694 235.3333 109.3333 235.3333 L 209.3333 235.3333 C 216.6972 235.3333 222.6667 229.3639 222.6667 222 L 222.6667 208.6667 L 209.3333 208.6667 L 109.3333 208.6667 L 96 208.6667 L 96 222 Z" fill="url(#gradient4)"/>
+				<g>
+					<path id="RJ45_Back" d="M 96 127.3333 L 96 208.6667 L 114 208.6667 L 114 222 L 132 222 L 132 235.3333 L 186.6667 235.3333 L 186.6667 222 L 204.6667 222 L 204.6667 208.6667 L 222.6667 208.6667 L 222.6667 127.3333 L 96 127.3333 Z" fill="url(#gradient5)"/>
+					<path id="RJ45_Front_plastic" d="M 106 136.6667 L 212.6667 136.6667 L 212.6667 198.6667 L 194.6667 198.6667 L 194.6667 212.6667 L 176.6667 212.6667 L 176.6667 226 L 142 226 L 142 212.6667 L 124 212.6667 L 124 198.6667 L 106 198.6667 L 106 136.6667 ZM 96 127.3333 L 96 208.6667 L 114 208.6667 L 114 222 L 132 222 L 132 235.3333 L 186.6667 235.3333 L 186.6667 222 L 204.6667 222 L 204.6667 208.6667 L 222.6667 208.6667 L 222.6667 127.3333 L 96 127.3333 Z" fill="url(#gradient6)"/>
+				</g>
+				<rect id="RJ45_Trail" x="106" y="136.6667" width="106.6667" height="24.6667" fill="url(#gradient7)"/>
+				<g id="RJ45_Pins">
+					<rect x="108.6667" y="145.3333" width="8" height="32" fill="url(#gradient8)"/>
+					<rect x="122" y="145.3333" width="8" height="32" fill="url(#gradient9)"/>
+					<rect x="136" y="145.3333" width="8" height="32" fill="url(#gradient10)"/>
+					<rect x="149.3333" y="145.3333" width="8" height="32" fill="url(#gradient11)"/>
+					<rect x="162" y="145.3333" width="8" height="32" fill="url(#gradient12)"/>
+					<rect x="175.3333" y="145.3333" width="8" height="32" fill="url(#gradient13)"/>
+					<rect x="189.3333" y="145.3333" width="8" height="32" fill="url(#gradient14)"/>
+					<rect x="202.6667" y="145.3333" width="8" height="32" fill="url(#gradient15)"/>
+				</g>
+				<g id="RJ45_Lights">
+					<g id="RJ45_YellowLight">
+						<rect opacity="0.502" x="96" y="208.6667" width="18" height="13.3333" fill="url(#gradient16)"/>
+						<rect x="96" y="208.6667" width="18" height="13.3333" fill="url(#gradient17)"/>
+					</g>
+					<g id="RJ45_GreenLight">
+						<rect opacity="0.502" x="204.6667" y="208.6667" width="18" height="13.3333" fill="url(#gradient18)"/>
+						<rect x="204.6667" y="208.6667" width="18" height="13.3333" fill="url(#gradient19)"/>
+					</g>
+				</g>
+			</g>
+			<g id="RJ11">
+				<path id="RJ11_Back" d="M 417.3333 127.3333 L 417.3333 208.6667 L 407.3333 208.6667 L 407.3333 222 L 389.3333 222 L 389.3333 235.3333 L 334.6667 235.3333 L 334.6667 222 L 316.6667 222 L 316.6667 208.6667 L 306.6667 208.6667 L 306.6667 127.3333 L 417.3333 127.3333 Z" fill="url(#gradient20)"/>
+				<rect id="RJ11_Trails" x="316.6667" y="136.6667" width="90.6667" height="24.6667" fill="url(#gradient21)"/>
+				<path id="RJ11_Front" d="M 407.3333 136.6667 L 316.6667 136.6667 L 316.6667 198.6667 L 326.6667 198.6667 L 326.6667 212.6667 L 344.6667 212.6667 L 344.6667 226 L 379.3333 226 L 379.3333 212.6667 L 397.3333 212.6667 L 397.3333 198.6667 L 407.3333 198.6667 L 407.3333 136.6667 ZM 417.3333 127.3333 L 417.3333 208.6667 L 407.3333 208.6667 L 407.3333 222 L 389.3333 222 L 389.3333 235.3333 L 334.6667 235.3333 L 334.6667 222 L 316.6667 222 L 316.6667 208.6667 L 306.6667 208.6667 L 306.6667 127.3333 L 417.3333 127.3333 Z" fill="url(#gradient22)"/>
+				<g id="RJ11_Pins">
+					<rect x="377.3333" y="145.3333" width="8" height="32" fill="url(#gradient23)"/>
+					<rect x="364" y="145.3333" width="8" height="32" fill="url(#gradient24)"/>
+					<rect x="351.3333" y="145.3333" width="8" height="32" fill="url(#gradient25)"/>
+					<rect x="338" y="145.3333" width="8" height="32" fill="url(#gradient26)"/>
+				</g>
+			</g>
+			<path id="LED1" d="M 243.3333 149.3333 C 243.3333 141.233 249.8997 134.6667 258 134.6667 C 266.1003 134.6667 272.6667 141.233 272.6667 149.3333 C 272.6667 157.4336 266.1003 164 258 164 C 249.8997 164 243.3333 157.4336 243.3333 149.3333 Z" fill="url(#gradient27)"/>
+			<path id="LED2" d="M 243.3333 213.3333 C 243.3333 205.233 249.8997 198.6667 258 198.6667 C 266.1003 198.6667 272.6667 205.233 272.6667 213.3333 C 272.6667 221.4336 266.1003 228 258 228 C 249.8997 228 243.3333 221.4336 243.3333 213.3333 Z" fill="url(#gradient28)"/>
+		</g>
+	</g>
+</svg>
